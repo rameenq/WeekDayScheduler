@@ -6,6 +6,8 @@ The Work Day Scheduler is a simple calendar application that allows users to sch
 
 The application is built using HTML, CSS (Bootstrap), and JavaScript (jQuery and Day.js). Local storage is utilized to store and retrieve the user's task data.
 
+link to page: https://rameenq.github.io/WeekDayScheduler/
+
 <img width="1386" alt="Screenshot 2023-07-17 at 5 55 42 pm" src="https://github.com/rameenq/WeekDayScheduler/assets/126428649/4eb57a84-747a-41b8-b32f-a13399dc9ffa">
 
 
